@@ -1,5 +1,5 @@
 # Hi, I'm Uchenna Ogochukwu Nwosu 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Uchenna-Nwosu&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Uchenna-Nwosu&show_icons=true&theme=tokyonight)
 
 A Certified Data Analyst passionate about transforming raw data into actionable insights.
 
