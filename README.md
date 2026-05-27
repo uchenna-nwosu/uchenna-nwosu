@@ -4,7 +4,7 @@ A Certified Data Analyst passionate about transforming raw data into actionable 
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Uchenna-Nwosu&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uchenna-Nwosu&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Uchenna-Nwosu&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Uchenna-Nwosu&theme=tokyonight)
 
