@@ -1,4 +1,4 @@
-# Hi, I'm Uchenna Ogochukwu Nwosu 👋
+# Hi, I'm Uchenna Ogochukwu Nwosu 
 
 A Certified Data Analyst passionate about transforming raw data into actionable insights.
 
@@ -31,5 +31,5 @@ To leverage data analytics and visualization to help organizations make smarter,
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/uchenna-nwosu-ogochukwu/)
-nwosuucee@gmail.com
+[Email](nwosuucee@gmail.com)
 Portfolio
