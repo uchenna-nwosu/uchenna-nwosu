@@ -8,17 +8,6 @@ A Certified Data Analyst passionate about transforming raw data into actionable 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Uchenna-Nwosu&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uchenna-Nwosu&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uchenna-Nwosu&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Uchenna-Nwosu&theme=tokyonight" />
-</p>
 
 ## 📌 What I do
 📊 Data Visualization  
