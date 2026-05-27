@@ -4,7 +4,11 @@ A Certified Data Analyst passionate about transforming raw data into actionable 
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Uchenna-Nwosu&show_icons=true&theme=tokyonight)
 
-## What I do
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uchenna-Nwosu&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Uchenna-Nwosu&theme=tokyonight)
+
+## 📌 What I do
 📊 Data Visualization  
 Creating insightful dashboards and reports with Power BI and Tableau.
 
@@ -23,14 +27,14 @@ Using Python to analyze datasets and streamline workflows.
 To leverage data analytics and visualization to help organizations make smarter, data-driven decisions.
 
 
-## Featured Projects
+## 🚀 Featured Projects
 - Sales Dashboard
 - WhatsApp Analytics
 - Spotify Dashboard
 - Appointify Analytics
 
 
-## Contact
+## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/uchenna-nwosu-ogochukwu/)
 [Email](nwosuucee@gmail.com)
 Portfolio
