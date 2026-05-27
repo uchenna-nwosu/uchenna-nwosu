@@ -1,5 +1,5 @@
 # Hi, I'm Uchenna Ogochukwu Nwosu 
-https://github-readme-stats.vercel.app/api?username=Uchenna-Nwosu&show_icons=true&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uchenna-Nwosu&show_icons=true&theme=radical)
 
 A Certified Data Analyst passionate about transforming raw data into actionable insights.
 
